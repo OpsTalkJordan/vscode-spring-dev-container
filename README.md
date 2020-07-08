@@ -1,6 +1,6 @@
 # vscode-spring-dev-container
 
-> This project is based on the Java 11 dev container from Microsoft. It can easily be changed to a different JDK by changing the base image in the Dockerfile.
+> This project adds the Spring toolchain to the base JDK11 container definition from Microsoft. It can easily be changed to a different JDK by changing the base image in the Dockerfile.
 
 A **development container** is a running [Docker](https://www.docker.com) container with a well-defined tool/runtime stack and its prerequisites. The Remote - Containers extension in the [Remote Development](https://aka.ms/vscode-remote/download/extension) extension pack allows you to open any folder mounted into or inside a dev container and take advantage of VS Code's full development feature set.
 
